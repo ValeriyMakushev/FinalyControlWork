@@ -1,0 +1,15 @@
+/Users/makushevvaleriy/Desktop/phyton/Итоговая проверочная работа/task/obj/Debug/net6.0/task.csproj.AssemblyReference.cache
+/Users/makushevvaleriy/Desktop/phyton/Итоговая проверочная работа/task/obj/Debug/net6.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makushevvaleriy/Desktop/phyton/Итоговая проверочная работа/task/obj/Debug/net6.0/task.AssemblyInfoInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Итоговая проверочная работа/task/obj/Debug/net6.0/task.AssemblyInfo.cs
+/Users/makushevvaleriy/Desktop/phyton/Итоговая проверочная работа/task/obj/Debug/net6.0/task.csproj.CoreCompileInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Итоговая проверочная работа/task/bin/Debug/net6.0/task
+/Users/makushevvaleriy/Desktop/phyton/Итоговая проверочная работа/task/bin/Debug/net6.0/task.deps.json
+/Users/makushevvaleriy/Desktop/phyton/Итоговая проверочная работа/task/bin/Debug/net6.0/task.runtimeconfig.json
+/Users/makushevvaleriy/Desktop/phyton/Итоговая проверочная работа/task/bin/Debug/net6.0/task.dll
+/Users/makushevvaleriy/Desktop/phyton/Итоговая проверочная работа/task/bin/Debug/net6.0/task.pdb
+/Users/makushevvaleriy/Desktop/phyton/Итоговая проверочная работа/task/obj/Debug/net6.0/task.dll
+/Users/makushevvaleriy/Desktop/phyton/Итоговая проверочная работа/task/obj/Debug/net6.0/refint/task.dll
+/Users/makushevvaleriy/Desktop/phyton/Итоговая проверочная работа/task/obj/Debug/net6.0/task.pdb
+/Users/makushevvaleriy/Desktop/phyton/Итоговая проверочная работа/task/obj/Debug/net6.0/task.genruntimeconfig.cache
+/Users/makushevvaleriy/Desktop/phyton/Итоговая проверочная работа/task/obj/Debug/net6.0/ref/task.dll
